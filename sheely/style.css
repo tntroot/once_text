@@ -1,0 +1,40 @@
+* {
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+  background-color: rgb(107, 255, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container h1 {
+  font-size: 3rem;
+}
+.container h2 {
+  font-size: 2rem;
+}
+.container .maintype {
+  display: flex;
+}
+.container .maintype div {
+  margin: 0 1rem;
+}
+.container .maintype div input {
+  width: 1.5rem;
+  height: 1.5rem;
+  margin-right: 1vw;
+}
+.container .maintype div label {
+  font-size: 1.5rem;
+}
+.container button {
+  padding: 0.5rem 5rem;
+  margin: 2rem 0;
+}
+.container p {
+  font-size: 2rem;
+}/*# sourceMappingURL=style.css.map */
